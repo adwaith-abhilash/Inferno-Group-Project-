@@ -1,8 +1,5 @@
 # Inferno Game
 
-## Play the Game
-
-You can play the game by downloading the files from this link: [Play the Game](https://drive.google.com/drive/folders/1LnhyfPQIgU7c4eiUrVRJb7e9_fPJ0M-u?usp=sharing)
 
 ## Description
 
