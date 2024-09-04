@@ -2,7 +2,7 @@
 
 ## Play the Game
 
-You can play the game by downloading the game files from this link: [Play the Game](https://drive.google.com/drive/folders/1LnhyfPQIgU7c4eiUrVRJb7e9_fPJ0M-u?usp=drive_link)
+You can play the game by downloading the game files from this link: [Play the Game](https://drive.google.com/drive/folders/1jT47MXYVjpqM7W30w56cUItgUlOHpAP2?usp=drive_link)
 
 ## Controls
 
@@ -18,3 +18,6 @@ Jump: Space
 
 The complete project files, including scripts, assets, and scenes, can be viewed in this repository. Feel free to explore the code and resources used to create the game.
 
+## Game Demo Clips
+
+Feel free to watch the game clips [Game Clips](https://drive.google.com/drive/folders/1APv72RSkQpJftf3Pd10FdCeniM9Q0Amj?usp=drive_link)
